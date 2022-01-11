@@ -2,31 +2,31 @@
   "performancecurve": {
     "prefix": "PerformanceCurve",
     "body": "PerformanceCurve = ./${1:RelativeFilePath}",
-    "description": "このファイルから車両性能ファイルへの相対パスを記述します。"
+    "description": "이 파일에서 차량 성능 파일의 상대 경로를 작성합니다."
   },
   "parameters": {
     "prefix": "Parameters",
     "body": "Parameters = ./${1:RelativeFilePath}",
-    "description": "このファイルから車両パラメータファイルへの相対パスを記述します。"
+    "description": "이 파일에서 차량 파라미터 파일의 상대 경로를 작성합니다."
   },
   "panel": {
     "prefix": "Panel",
     "body": "Panel = ./${1:RelativeFilePath}",
-    "description": "このファイルから運転台パネルファイルへの相対パスを記述します。"
+    "description": "이 파일에서 운전대 판넬 파일의 상대 경로를 작성합니다."
   },
   "sound": {
     "prefix": "Sound",
     "body": "Sound = ./${1:RelativeFilePath}",
-    "description": "このファイルから車両サウンドファイルへの相対パスを記述します。"
+    "description": "이 파일에서 차량 사운드 파일의 상대 경로를 작성합니다."
   },
   "ats": {
     "prefix": "Ats",
     "body": "Ats = ./${1:RelativeFilePath}",
-    "description": "このファイルから保安装置プラグインへの相対パスを記述します。"
+    "description": "이 파일에서 보안장치 플러그인 파일의 상대 경로를 작성합니다."
   },
   "motornoise": {
     "prefix": "MotorNoise",
     "body": "MotorNoise = ./${1:RelativeFilePath}",
-    "description": "このファイルからモーター音ファイルへの相対パスを記述します。"
+    "description": "이 파일에서 구동음 파일의 상대 경로를 작성합니다."
   }
 }
