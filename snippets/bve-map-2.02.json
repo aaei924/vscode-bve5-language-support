@@ -37,12 +37,12 @@
   "structure.put": {
     "prefix": "Structure.Put('trackKey',x,y,z,rx,ry,rz,tilt,span)",
     "body": "Structure['${1:structureKey}'].Put('${2:trackKey}',${3:x},${4:y},${5:z},${6:rx},${7:ry},${8:rz},${9:tilt},${10:span});${0:}",
-    "description": "ストラクチャを設置します。"
+    "description": "스트럭쳐를 설치합니다."
   },
   "structure.put0": {
     "prefix": "Structure.Put0('trackKey'tilt,span)",
     "body": "Structure['${1:structureKey}'].Put0('${2:trackKey}',${3:tilt},${4:span});${0:}",
-    "description": "ストラクチャを設置します。"
+    "description": "스트럭쳐를 설치합니다."
   },
   "structure.putbetween": {
     "prefix": "Structure.PutBetWeen('trackKey1','trackKey2')",
